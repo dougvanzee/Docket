@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"docket"},{"l":"docket.db"},{"l":"docket.localization"},{"l":"docket.reports"},{"l":"docket.security"}];updateSearchResults();

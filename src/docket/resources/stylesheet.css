@@ -1,0 +1,118 @@
+.pane-medium-background {
+    -fx-background-color: #2d2d30;
+}
+
+.pane-dark-background {
+    -fx-background-color: #1e1e1e;
+    -fx-border-color: #3f3f46;
+    -fx-border-width: 0 1 0 0;
+}
+
+.pane-loading {
+    -fx-background-color: rgba(104, 104, 104, 0.5);
+}
+
+.button-borderless {
+    -fx-background-color: transparent;
+    -fx-border-width: 0px;
+    -fx-text-fill: #0088ff;
+}
+
+.button-borderless:hover {
+    -fx-text-fill: #74befe;
+}
+
+.button-borderless-2 {
+    -fx-background-color: transparent;
+    -fx-border-width: 0px;
+    -fx-text-fill: #0088ff;
+}
+
+.button-borderless-2:hover {
+    -fx-background-color: #3e3e40;
+    -fx-border-width: 0px;
+    -fx-text-fill: #74befe;
+}
+
+.label {
+    -fx-text-fill: #999999;
+}
+
+.label-red {
+    -fx-text-fill: #ff0000;
+}
+
+.label-white {
+    -fx-text-fill: #ffffff;
+}
+
+.border-pane {
+    -fx-background-color: #2d2d30;
+}
+
+.label-blue {
+    -fx-text-fill: #0088ff;
+}
+
+.button-sidemenu {
+    -fx-background-radius: 0px;
+    -fx-background-color: #252526;
+    -fx-text-fill: #ffffff;
+}
+
+.button-sidemenu:hover {
+    -fx-background-color: #3e3e40;
+}
+
+.button-sidemenu:selected {
+    -fx-background-color: #0088ff;
+}
+
+.button-sidemenu:selected:hover {
+    -fx-background-color: #74befe;
+}
+
+.button-logout {
+    -fx-background-radius: 0px;
+    -fx-background-color: #00d171;
+    -fx-text-fill: #ffffff;
+}
+
+.button-logout:hover {
+    -fx-background-color: #ff2a2a;
+}
+
+.separator *.line {
+    -fx-background-color: #3f3f46;
+    -fx-border-style: solid;
+    -fx-border-width: 1;
+    -fx-border-color: #3f3f46;
+}
+
+.radio-button
+{
+    -fx-text-fill:#ffffff;
+} 
+
+.hbox-red {
+    -fx-background-color: #ff2a2a;
+}
+
+.button-reconnect {
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+}
+
+.button-reconnect:hover {
+    -fx-background-color: #ff5d5d;
+}
+
+.tab-pane {
+    -fx-tab-max-height: 0 ;
+} 
+.tab-pane .tab-header-area {
+    visibility: hidden ;
+}
